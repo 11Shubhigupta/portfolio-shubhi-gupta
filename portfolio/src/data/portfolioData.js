@@ -1,5 +1,5 @@
 // ─── Shubhi Gupta Portfolio Data (from Resume) ───
-import ResumePDF from "../assets/resume/ShubhiGupta_Resume_FS.pdf";
+import ResumePDF from "../Assets/resume/ShubhiGupta_Resume_FS.pdf";
 export const personal = {
   name: "Shubhi Gupta",
   tagline: "Building digital experiences that matter",
